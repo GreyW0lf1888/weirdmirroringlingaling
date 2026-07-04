@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: bloxd-proxy-mirror
+    runtime: docker
+    plan: free
